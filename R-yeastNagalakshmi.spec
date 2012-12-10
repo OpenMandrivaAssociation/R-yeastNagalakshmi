@@ -40,3 +40,11 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/Meta
 %{rlibdir}/%{packname}/extdata
 %{rlibdir}/%{packname}/help
+
+
+%changelog
+* Sat Feb 18 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.99.3-1
++ Revision: 776728
+- Import R-yeastNagalakshmi
+- Import R-yeastNagalakshmi
+
