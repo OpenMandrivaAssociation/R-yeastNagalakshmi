@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.99.3
-Release:          2
+Release:          3
 Summary:          Yeast genome RNA sequencing data based on Nagalakshmi et. al
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
